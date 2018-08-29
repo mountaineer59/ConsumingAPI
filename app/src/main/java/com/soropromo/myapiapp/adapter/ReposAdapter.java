@@ -87,6 +87,6 @@ public class ReposAdapter extends RecyclerView.Adapter<ReposAdapter.ReposViewHol
 
     @Override
     public int getItemCount() {
-        return repos.size();
+        return repos.size(); 
     }
 }
